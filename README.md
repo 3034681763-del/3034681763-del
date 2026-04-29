@@ -21,6 +21,9 @@ Beyond engineering, I also love art. I enjoy calligraphy, photography, and liste
 - [`smartcar_baidu_21`](https://github.com/3034681763-del/smartcar_baidu_21)  
   A Jetson-based smart farm robot project integrating lane following, object detection, OCR, LLM reasoning, UART communication, chassis control, and robotic-arm task execution.
 
+- [`Move_code`](https://github.com/3034681763-del/Move_code)  
+  TC387 lower-controller firmware for UART communication, mecanum chassis control, encoder odometry, TOF ranging, IMU heading feedback, and robotic-arm control modules.
+
 - [`Vision_Smartrobot`](https://github.com/3034681763-del/Vision_Smartrobot)  
   A C-based repository related to vision and smart robotics.
 
@@ -78,6 +81,9 @@ Jetson Orin Nano / UART / OCR / AI Studio API
 
 - [`smartcar_baidu_21`](https://github.com/3034681763-del/smartcar_baidu_21)  
   一个运行在 Jetson 上的智慧农场机器人项目，包含巡线、目标检测、OCR、大模型推理、串口通信、底盘控制和机械臂任务执行。
+
+- [`Move_code`](https://github.com/3034681763-del/Move_code)  
+  TC387 下位机控制代码，负责 UART 通信、麦轮底盘控制、编码器里程、TOF 测距、IMU 航向角反馈和机械臂控制模块。
 
 - [`Vision_Smartrobot`](https://github.com/3034681763-del/Vision_Smartrobot)  
   一个与视觉和智能机器人相关的 C 语言项目仓库。

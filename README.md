@@ -7,11 +7,11 @@ I am an undergraduate student at Harbin Institute of Technology, Weihai.
 I am interested in robotics, embodied intelligence, and embedded systems. In my free time, I enjoy calligraphy, photography, and music.
 
 <p align="center">
-  <img src="assets/team-at-work.jpg" alt="Team working on the smart car" width="100%">
+  <img src="assets/team-at-work.jpg" alt="Team working on the smart car" width="70%">
 </p>
 
 <p align="center">
-  <img src="assets/competition-team.jpg" alt="HIT Weihai competition team" width="100%">
+  <img src="assets/competition-team.jpg" alt="HIT Weihai competition team" width="70%">
 </p>
 
 ## About Me

@@ -2,19 +2,15 @@
 
 English | [中文](#中文)
 
-I am a sophomore student at the School of Information Science and Engineering (SISE), Harbin Institute of Technology, Weihai.
+I am an undergraduate student at Harbin Institute of Technology, Weihai.
 
-My current interests are robotics, embodied intelligence, and embedded systems. I enjoy building systems where perception, reasoning, control, and hardware execution come together in the physical world.
-
-Beyond engineering, I also love art. I enjoy calligraphy, photography, and listening to music by Jay Chou, David Tao, and other musicians whose work carries both rhythm and emotion.
+I am interested in robotics, embodied intelligence, and embedded systems. In my free time, I enjoy calligraphy, photography, and music.
 
 ## About Me
 
-- Undergraduate student at HIT Weihai, SISE
-- Interested in robotics, embodied intelligence, embedded AI, and intelligent control
-- Working with Python, C, OpenCV, Paddle Lite, Linux, Jetson, UART, and Git
-- Exploring how AI models can be connected with real robotic tasks
-- Also interested in calligraphy, photography, and music
+- Undergraduate student at HIT Weihai
+- Interested in robotics and embedded AI
+- Working mainly with Python, C, Linux, and Jetson
 
 ## Projects
 
@@ -63,19 +59,15 @@ Jetson Orin Nano / UART / OCR / AI Studio API
 
 [English](#hi-im-lyu-ziheng) | 中文
 
-我是哈尔滨工业大学（威海）信息科学与工程学院（SISE）的大二学生。
+我是哈尔滨工业大学（威海）本科生。
 
-目前主要致力于机器人、具身智能和嵌入式方向的学习与研究。我喜欢把感知、推理、控制和硬件执行连接起来，让算法真正进入物理世界。
-
-工程之外，我也热爱艺术，喜欢书法、摄影，也喜欢听周杰伦（Jay Chou）、陶喆（David Tao）等音乐人的作品。
+目前关注机器人、具身智能和嵌入式系统。平时喜欢书法、摄影和音乐。
 
 ## 关于我
 
-- 哈尔滨工业大学（威海）信息科学与工程学院本科生
-- 关注机器人、具身智能、嵌入式 AI 与智能控制
-- 主要使用 Python、C、OpenCV、Paddle Lite、Linux、Jetson、UART 和 Git
-- 正在探索 AI 模型与真实机器人任务的结合方式
-- 同时喜欢书法、摄影和音乐
+- 哈尔滨工业大学（威海）本科生
+- 关注机器人与嵌入式 AI
+- 主要使用 Python、C、Linux 和 Jetson
 
 ## 项目
 

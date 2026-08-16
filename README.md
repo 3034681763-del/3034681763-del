@@ -13,20 +13,20 @@ I am interested in robotics, embodied intelligence, and embedded systems. In my 
 
 ## About Me
 
-- Junior student at HIT Weihai
-- Interested in robotics and embedded AI
-- Working mainly with Python, C, Linux, and Jetson
+Junior student at HIT Weihai<br>
+Interested in robotics and embedded AI<br>
+Working mainly with Python, C, Linux, and Jetson
 
 ## Technical Interests
 
-- Robotics software architecture
-- Embodied intelligence
-- Computer vision and object detection
-- Embedded Linux development
-- Jetson edge deployment
-- UART communication and real-time control
-- Robotic-arm calibration and control
-- Practical AI workflows for physical robots
+Robotics software architecture<br>
+Embodied intelligence<br>
+Computer vision and object detection<br>
+Embedded Linux development<br>
+Jetson edge deployment<br>
+UART communication and real-time control<br>
+Robotic-arm calibration and control<br>
+Practical AI workflows for physical robots
 
 ## Tech Stack
 
@@ -46,20 +46,20 @@ Jetson Orin Nano / UART / OCR / AI Studio API
 
 ## 关于我
 
-- 哈尔滨工业大学（威海）大三学生
-- 关注机器人与嵌入式 AI
-- 主要使用 Python、C、Linux 和 Jetson
+哈尔滨工业大学（威海）大三学生<br>
+关注机器人与嵌入式 AI<br>
+主要使用 Python、C、Linux 和 Jetson
 
 ## 技术方向
 
-- 机器人软件架构
-- 具身智能
-- 计算机视觉与目标检测
-- 嵌入式 Linux 开发
-- Jetson 边缘端部署
-- UART 通信与实时控制
-- 机械臂标定与控制
-- 面向真实机器人的 AI 工作流
+机器人软件架构<br>
+具身智能<br>
+计算机视觉与目标检测<br>
+嵌入式 Linux 开发<br>
+Jetson 边缘端部署<br>
+UART 通信与实时控制<br>
+机械臂标定与控制<br>
+面向真实机器人的 AI 工作流
 
 ## 技术栈
 
